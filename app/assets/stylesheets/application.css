@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ .message {
+  border-left: 4px solid lightgray;
+  padding-left: 12px;
+ }
+
+ 
